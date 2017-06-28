@@ -6,18 +6,8 @@
 Helm is a tool for managing Kubernetes charts. Charts are packages of
 pre-configured Kubernetes resources.
 
-Use Helm to...
 
 - Find and use [popular software packaged as Kubernetes charts](https://github.com/kubernetes/charts)
-- Share your own applications as Kubernetes charts
-- Create reproducible builds of your Kubernetes applications
-- Intelligently manage your Kubernetes manifest files
-- Manage releases of Helm packages
-
-## Helm in a Handbasket
-
-Helm is a tool that streamlines installing and managing Kubernetes applications.
-Think of it like apt/yum/homebrew for Kubernetes.
 
 - Helm has two parts: a client (`helm`) and a server (`tiller`)
 - Tiller runs inside of your Kubernetes cluster, and manages releases (installations)
