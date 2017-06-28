@@ -2,12 +2,6 @@
 
 
 ## Usage
-aksjdhakjshdlkajshdlkj
-
-asdkfjhaskljdhf
-asdfasdf
-
-
 :NO TU SEI BROCCO:
 
 ## Installation
